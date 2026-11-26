@@ -1,0 +1,8 @@
+{
+    "model_name": "Soft Voting: Random Forest, Extra Trees, Gradient Boosting and Logistic Regression",
+    "roc_auc": 0.8361904761904762,
+    "accuracy": 0.775,
+    "precision": 0.8467153284671532,
+    "recall": 0.8285714285714286,
+    "f1": 0.8375451263537906
+}
